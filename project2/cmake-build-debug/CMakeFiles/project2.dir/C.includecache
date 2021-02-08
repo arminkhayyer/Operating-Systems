@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arminkhayyer/CLionProjects/project2/counter.c
+stdio.h
+-
+string.h
+-
+
+/Users/arminkhayyer/CLionProjects/project2/loader.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/arminkhayyer/CLionProjects/project2/pwordcount.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+stdlib.h
+-
+loader.c
+/Users/arminkhayyer/CLionProjects/project2/loader.c
+counter.c
+/Users/arminkhayyer/CLionProjects/project2/counter.c
+stdbool.h
+-
+signal.h
+-
+
