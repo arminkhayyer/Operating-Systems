@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arminkhayyer/CLionProjects/project4/cpmfsys.c
+cpmfsys.h
+/Users/arminkhayyer/CLionProjects/project4/cpmfsys.h
+stdbool.h
+-
+regex.h
+-
+
+/Users/arminkhayyer/CLionProjects/project4/cpmfsys.h
+stdint.h
+-
+stdlib.h
+-
+diskSimulator.h
+/Users/arminkhayyer/CLionProjects/project4/diskSimulator.h
+stdbool.h
+-
+string.h
+-
+stdio.h
+-
+
+/Users/arminkhayyer/CLionProjects/project4/diskSimulator.h
+stdint.h
+-
+stddef.h
+-
+
