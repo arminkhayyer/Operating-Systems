@@ -1,3 +1,6 @@
+     This is an implementation of a CPU scheduler, where three different scheduling algorithms (SJF, FCFS, Priority) can be chosen. Jobs arriving with different          distributions. and they have random burst times. 
+     
+     
         "[run] <job> <time> <priority> ",
         "[quit] <-i/-d> Exit immediately or delayed ",
         "[help] Print help menu ",
