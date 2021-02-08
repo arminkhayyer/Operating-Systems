@@ -1,0 +1,8 @@
+Total number of job submitted:           10  
+Policy                                   sjf 
+Average turnaround time:                 3.796184 seconds.  
+Average CPU time:                        1.130116 seconds.  
+Average waiting time:                    2.666067 seconds.  
+Throughput:                              0.263422 
+max_response_time :                      8.398113 
+min_response_time :                      0.013264 

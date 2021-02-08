@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arminkhayyer/CLionProjects/project3/AUbatch.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+string.h
+-
+sys/types.h
+-
+zconf.h
+-
+unistd.h
+-
+comand.c
+/Users/arminkhayyer/CLionProjects/project3/comand.c
+
+/Users/arminkhayyer/CLionProjects/project3/QueueHeader.h
+
+/Users/arminkhayyer/CLionProjects/project3/comand.c
+sys/types.h
+-
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+string.h
+-
+QueueHeader.h
+/Users/arminkhayyer/CLionProjects/project3/QueueHeader.h
+time.h
+-
+sys/time.h
+-
+
